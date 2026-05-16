@@ -1,11 +1,12 @@
 # ImGui Overlay Example (C#) - ⚠️ Deprecated & old
 
-A lightweight **external ImGui overlay** built in **C#** demonstrating custom GUI features, example options, and a slightly customized Dear ImGui interface. This project is designed for **educational purposes**, showing how to integrate Dear ImGui into an external overlay environment.
+A lightweight **external ImGui overlay** built in **C#** demonstrating simple custom components, example options.
 
 ---
 
-## Features
+## About
 
+- Very simple custom components example
 - External overlay with ImGui interface  
 - Customizable menu layout and colors  
 - Example functional options demonstrating ImGui controls  
@@ -18,8 +19,6 @@ A lightweight **external ImGui overlay** built in **C#** demonstrating custom GU
 
 ![Preview](Preview.png)
 
-*Above: Example of the overlay menu in action.*
-
 ---
 
 ## Getting Started
@@ -28,11 +27,4 @@ A lightweight **external ImGui overlay** built in **C#** demonstrating custom GU
 - .NET Framework / .NET Core compatible with your setup  
 - Visual Studio 2019 or newer  
 - Dear ImGui C# binding (included in the project)
-
-### Build Instructions
-1. Clone this repository:
-
-```bash
-git clone https://github.com/matheusc9/External-ImGui.git
-
 
